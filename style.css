@@ -106,3 +106,37 @@ footer {
   bottom: 0; /* Alinha ao fundo da página */
   font-size: 1rem; /* Tamanho da fonte */
 }
+/* ... (restante do seu CSS) */
+
+/* Estiliza a caixa de resultados da pesquisa */
+.resultados-pesquisa {
+  width: 100%; /* Ocupa 100% da largura disponível */
+  max-height: 40vh; /* Define uma altura máxima para dispositivos menores */
+  /* ... */
+}
+
+/* Media queries para ajustar o layout em diferentes tamanhos de tela */
+@media (max-width: 768px) {
+  /* Estilos para telas com largura máxima de 768px (tablets) */
+  body {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  section {
+    width: 100%;
+  }
+
+  section input {
+    width: 100%;
+  }
+
+  .resultados-pesquisa {
+    max-height: 60vh; /* Aumenta a altura máxima para dispositivos menores */
+  }
+
+  /* Outros ajustes para telas menores */
+}
