@@ -19,7 +19,7 @@ Essa aplicação te permite pesquisar por seus atletas brasileiros favoritos! Di
 **Como usar este projeto:**
 
 1. **Clone o repositório:** Use o comando `git clone https://seu-repositorio.git` para baixar o projeto para o seu computador.
-2. **Vá para o website oficial:** https://brazil-olympics-athletes.vercel.app/
+2. **Vá para o website oficial:** https://brasil-olympics-athletes.vercel.app/
 3. **Comece a pesquisar:** Divirta-se descobrindo mais sobre seus atletas brasileiros favoritos!
 
 **Contribuindo para o projeto:**
